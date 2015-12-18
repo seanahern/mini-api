@@ -1,10 +1,10 @@
 # mini-api
 
-## What?
+### What?
 
 Quick API implementation using Sinatra
 
-## Getting started
+### Getting started
 
 ```
 git clone https://github.com/seanahern/mini-api
